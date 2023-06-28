@@ -1,0 +1,5 @@
+# ignore ALX provided files:
+*main.c
+
+# ignore emacs autosave files:
+*~
