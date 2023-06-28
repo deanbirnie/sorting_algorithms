@@ -1,5 +1,7 @@
 # ignore ALX provided files:
 *main.c
+print_array.c
+print_list.c
 
 # ignore emacs autosave files:
 *~
